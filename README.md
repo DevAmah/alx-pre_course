@@ -1,1 +1,1 @@
-My first readme
+learning with the speed of light
